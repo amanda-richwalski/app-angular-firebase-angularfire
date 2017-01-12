@@ -1,0 +1,76 @@
+{
+  "categories" : {
+    "-KCYYDE3JBe98iRERYnj" : {
+      "name" : "Office Equipment"
+    },
+    "-KCYYQtoXFwBQmgney5U" : {
+      "name" : "Travel Expenses"
+    },
+    "aaaaa" : {
+      "name" : "Books"
+    },
+    "bbbbb" : {
+      "name" : "Computer Equipment"
+    }
+  },
+  "expenses" : {
+    "facebook:10204696747153807" : {
+      "-K9W1Vdvr_hCJFWmwMEA" : {
+        "amount" : 3999.99,
+        "category" : {
+          "id" : "bbbbb",
+          "name" : "Computer Equipment"
+        },
+        "date" : "1985-02-02T07:00:00.000Z",
+        "description" : "IBM XT",
+        "payee" : "Computer Emporium"
+      },
+      "-K9W6WRaGn4pIFkSA_V4" : {
+        "amount" : 899.99,
+        "category" : {
+          "id" : "bbbbb",
+          "name" : "Computer Equipment"
+        },
+        "date" : "1985-02-02T07:00:00.000Z",
+        "description" : "10MB Hard Drive",
+        "payee" : "Jon's Tech Parts"
+      },
+      "-K9W6rpLSEBNUU5EN-0Y" : {
+        "amount" : 14.99,
+        "category" : {
+          "id" : "-KCYYQtoXFwBQmgney5U",
+          "name" : "Office Equipment"
+        },
+        "date" : "1985-01-14T07:00:00.000Z",
+        "description" : "Alf Doll",
+        "payee" : "Kids R Us"
+      },
+      "-KBGgvJIr5lMhK0F_LzT" : {
+        "amount" : 2499.99,
+        "category" : {
+          "id" : "bbbbb",
+          "name" : "Computer Equipment"
+        },
+        "date" : "1985-02-23T07:00:00.000Z",
+        "description" : "Printer",
+        "payee" : "Al's PC Barn"
+      },
+      "-KChOvOCnzLjCdrfM7Z-" : {
+        "amount" : 2.98,
+        "category" : {
+          "id" : "aaaaa",
+          "name" : "Books"
+        },
+        "date" : "1985-03-03T07:00:00.000Z",
+        "description" : "Superfudge",
+        "payee" : "B. Dalton"
+      }
+    }
+  },
+  "preferences" : {
+    "facebook:10204696747153807" : {
+      "displayName" : "Joey",
+      "theme" : "dark"
+    }
+  }
+}
